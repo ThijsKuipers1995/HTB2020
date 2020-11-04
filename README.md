@@ -2,6 +2,9 @@
 
 ### Results:
 Overall results on all sequences:
+https://github.com/ThijsKuipers1995/HTB2020/blob/master/overall_results.png
+
+![alt text](https://github.com/ThijsKuipers1995/HTB2020/blob/master/overall_results.png)
 
 Results on specific categories:
 
